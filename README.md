@@ -5,8 +5,10 @@
 
 <!-- badges: start -->
 
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/xutils)](https://CRAN.R-project.org/package=xutils)
+[![CRAN\_Downloads](http://cranlogs.r-pkg.org/badges/grand-total/xutils)](https://CRAN.R-project.org/package=xutils)
 [![Build
-Status](https://travis-ci.org/fangzhou-xie/xutils.svg?branch=main)](https://travis-ci.org/fangzhou-xie/xutils)
+Status](https://app.travis-ci.com/fangzhou-xie/xutils.svg?branch=main)](https://app.travis-ci.com/github/fangzhou-xie/xutils)
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- badges: end -->
@@ -16,12 +18,14 @@ personally found useful. Hence the name: **x**utils.
 
 ## Installation
 
-This package is planned to be submitted to CRAN.
-<!-- You can install the released version of xutils from [CRAN](https://CRAN.R-project.org) with: -->
+<!-- This package is planned to be submitted to CRAN. -->
 
-<!-- ``` r -->
-<!-- install.packages("xutils") -->
-<!-- ``` -->
+You can install the released version of `xutils` from
+[CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("xutils")
+```
 
 And the development version from [GitHub](https://github.com/) with:
 
